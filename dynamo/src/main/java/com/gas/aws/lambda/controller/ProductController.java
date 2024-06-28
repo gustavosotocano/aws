@@ -1,7 +1,7 @@
-package com.gas.aws.dynamo.controller;
+package com.gas.aws.lambda.controller;
 
-import com.gas.aws.dynamo.entity.Product;
-import com.gas.aws.dynamo.repository.ProductoRepository;
+import com.gas.aws.lambda.entity.Product;
+import com.gas.aws.lambda.repository.ProductoRepository;
 
 import org.springframework.web.bind.annotation.*;
 

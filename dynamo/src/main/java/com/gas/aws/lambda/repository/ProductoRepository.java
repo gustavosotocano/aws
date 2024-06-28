@@ -1,6 +1,6 @@
-package com.gas.aws.dynamo.repository;
+package com.gas.aws.lambda.repository;
 
-import com.gas.aws.dynamo.entity.Product;
+import com.gas.aws.lambda.entity.Product;
 import org.socialsignin.spring.data.dynamodb.repository.EnableScan;
 import org.springframework.data.repository.CrudRepository;
 

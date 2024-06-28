@@ -1,4 +1,4 @@
-package com.gas.aws.dynamo.config;
+package com.gas.aws.lambda.config;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
